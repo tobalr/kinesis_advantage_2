@@ -1,0 +1,6 @@
+[rctrl]>[ralt]
+[ralt]>[rctrl]
+{rctrl}{=}>{-rshift}{=}{=}{=}{=}{=}{=}{+rshift}
+[pup]>[pup][t&h140][rwin]
+[pdown]>[pdown][t&h140][menu]
+[caps]>[escape][t&h140][caps]
